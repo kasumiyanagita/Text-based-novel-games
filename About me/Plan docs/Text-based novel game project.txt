@@ -1,0 +1,43 @@
+Text-based novel game project
+
+Outviews 
+-A short story game based on my favourite vocaloid song
+-Song: About me 
+
+Character setting
+ -Toshihito Hujiwara（藤原俊人）
+ -Akari Tojo (東条明)
+
+Vocaburary
+ -heartsore 
+
+Main of this story
+ This is a story about a man that cannot accept the loss of his love. The story ends happily when he could accept her loss.
+
+Basic contents 
+ -start with him writing a letter for her 
+ -at last, he will finally say love you with true smile and say good-bye to her 
+
+
+Basic story borken down
+ -start with a letter messages crying over a women that the main character once loved
+ -and he is very depressed
+ -he wants to give up on everything but he cannot 
+ -he thinks he is afraid that he is not as kind as she thinks and make a fake smile and kiss her 
+ -he constantly has something he wants to tell her and it's about him
+ -he says he will wait in his bedroom but even if she cannot come
+ -he cannot get his mind off her and he just thinks it's silly
+ -in those times, she was the one helped him feel better and he just remember her
+ -he made a mistake but he cannot take it back
+ -she is already dead
+ -and he wants to say it was not her fault but it is just too late for him
+ -when he kisses her with fake smile, he does not know what to do and want her to tell him what to do
+ -but in the confusion, he still kisses her 
+ -when he realises, everything is too late and everyone is gonna laugh at him
+ -the day of the cold wind always remind him of her 
+ -he is still afraid that he is not as kind as she thinks but now he says 'I love you' with true smile with his eyes closed
+ -he does not know what to do and wants her to tell him what to do
+ -his inside is just sad but he finally tells her good-bye and good-bye
+
+Pseudocode
+1. Show the menu
